@@ -1,7 +1,7 @@
 # Selamat Datang di Universitas Indraprasta PGRI Jakarta - Teknik Informatika (Cabang Aliran Java Ortodoks) ☕️💻
 
 <!-- Baris Badge yang Direvisi -->
-![Java Logo](https://img.shields.io/badge/Agama%20(Mayoritas)-Java-orange?style=for-the-badge&logo=java) ![Pascal Logo](https://img.shields.io/badge/Agama%20Leluhur-Pascal%20(Kini%20Ditinggalkan)-lightgrey?style=for-the-badge&logo=pascal) ![NetBeans Logo](https://img.shields.io/badge/Kiblat%20Resmi-NetBeans-blue?style=for-the-badge&logo=apache-netbeans) ![XAMPP Logo](https://img.shields.io/badge/Sumber%20Berkah-XAMPP-green?style=for-the-badge&logo=xampp)
+![Java Logo](https://img.shields.io/badge/Agama%20(Mayoritas)-Java-orange?style=for-the-badge&logo=java) ![Pascal Logo](https://img.shields.io/badge/Agama%20Pendahulu-Pascal%20-lightgrey?style=for-the-badge&logo=pascal) ![NetBeans Logo](https://img.shields.io/badge/Kiblat%20Resmi-NetBeans-blue?style=for-the-badge&logo=apache-netbeans) ![XAMPP Logo](https://img.shields.io/badge/Sumber%20Berkah-XAMPP-green?style=for-the-badge&logo=xampp)
 
 **`System.out.println("Selamat Datang, Wahai Pejuang Titik Koma Unindra!");`**
 
@@ -17,13 +17,13 @@ Di sini, kami merayakan warisan agung dan keimanan yang tak tergoyahkan pada sat
 
 Kami adalah umat yang berpegang teguh pada ajaran luhur, dengan beberapa catatan sejarah teologis khas kampus kita:
 
-1.  **Tauhid Java:** Mengimani bahwa Java adalah bahasa pemrograman sejati. Titik. Segala sesuatu dimulai dengan `public static void main(String[] args)` (Syahadat Pemrogram Unindra) dan diakhiri (semoga) dengan `System.exit(0)`, bukan `NullPointerException` yang menghantui mimpi.
+1.  **Deklarasi Iman Java:** Meyakini dengan sepenuh hati bahwa **Java** adalah esensi pemrograman sejati dan **NetBeans** adalah *wahana* termulia untuk mengekspresikan keyakinan tersebut. Ini adalah prinsip fundamental yang membedakan penganut setia Java dari mereka yang masih terikat pada paradigma lama.
 2.  **Menghormati Keagungan Pascal:** Mengakui **Pascal** sebagai Agama Besar yang pertama kali membawa pencerahan logika dan algoritma terstruktur di era formatif (`Masa Kejayaan Pascalian`). Kitab sucinya, `Turbo Pascal IDE`, dengan mantra `Program... Uses Crt; Begin...End.`, dan `Writeln/Readln` sebagai ayat-ayat fundamental, masih dihormati. Peninggalan artefak `*.pas` adalah relik suci yang disimpan oleh para *sesepuh* dan kadang muncul dalam mimpi mahasiswa baru.
 4.  **NetBeans sebagai Istana Agung:** Menghadap layar NetBeans saat *coding* adalah sebuah keniscayaan. Mengapa mencari *IDE Padepokan* lain jika Istana Agung NetBeans menyediakan *autocomplete* dan *GUI builder drag-and-drop* yang menenangkan jiwa? (*Walau tumbal RAM-nya kadang bikin istighfar*).
 5.  **OOP sebagai 4 Mazhab Utama:** *Inheritance, Polymorphism, Encapsulation, Abstraction* adalah empat pilar Fiqih Pemrograman yang wajib dihafal, dipahami, dan (sebisanya) diamalkan, *namun seringnya hanya sampai dihafalkan untuk ujian dan ditulis di laporan Bab 3, implementasi penuh di project? Wallahualam, chakzzz!* Perdebatan antar mazhab adalah diskursus intelektual tingkat tinggi saat menunggu dosen.
 6.  **XAMPP sebagai Sumber Air Kehidupan Digital:** Setiap proyek, baik itu eksperimen web sesaat maupun proyek Java yang agung, mengambil berkah *database* dari sumber yang sama: XAMPP. Mengklik tombol "Start" Apache dan MySQL adalah ritual pembuka, layaknya membaca basmalah sebelum *coding*.
-7.  **Percaya pada Hari `Exception`:** Mengimani bahwa `try-catch` adalah bentuk tawakal dan ikhtiar dalam menghadapi `Exception` yang tak terduga. Semakin dalam *nested try-catch*, semakin tebal iman (atau semakin cepat botak). `System.out.println()` adalah doa sapu jagat untuk *debugging* level mukjizat.
-8.  **Percaya pada Qada dan Qadar Algoritma SPK:** Menerima takdir ilahi bahwa sebagian besar tugas akhir yang terakreditasi di Perpustakaan Pusat Unindra (terutama dari Teknik Informatika) akan berkutat pada **Sistem Pendukung Keputusan (SPK)** dengan mazhab **AHP (Analytic Hierarchy Process)** atau **SAW (Simple Additive Weighting)**. Ini adalah *ijma'* ulama dosen yang sulit diganggu gugat. Merambah ke **ranah Machine Learning (ML)** atau metode SPK eksotis lainnya dianggap *jihad* tingkat tinggi yang hasilnya belum tentu *diridhoi* (baca: di-ACC dosen pembimbing).
+7.  **Percaya pada Hari `Exception` (Yaumul Qiyamah Kode):** Mengimani bahwa `try-catch` adalah bentuk tawakal dan ikhtiar dalam menghadapi `Exception` yang tak terduga, yang bisa datang kapan saja layaknya hari kiamat bagi sebuah program. Semakin dalam *nested try-catch*, semakin kuat benteng pertahanan iman. `System.out.println()` adalah doa qunut darurat untuk *debugging*.
+8.  **Percaya pada Takdir Algoritma SPK (AHP/SAW):** Menerima *Lauhul Mahfuz* kurikulum bahwa sebagian besar tugas akhir yang akan tercatat di Perpustakaan Pusat Unindra akan menggunakan **Sistem Pendukung Keputusan (SPK)** dengan mazhab **AHP (Analytic Hierarchy Process)** atau **SAW (Simple Additive Weighting)**. Ini adalah takdir yang telah ditetapkan. Merambah ke **ranah Machine Learning (ML)** atau metode SPK yang tidak ada di kitab rujukan utama dianggap jihad tingkat tinggi yang hasilnya belum tentu diridhoi (baca: di-ACC dosen pembimbing).
 
 ## ✨ Tradisi Sakral & Kearifan Lokal Unindra TI:
 
@@ -34,7 +34,7 @@ Sebelumnya dikenal sebagai "Stereotipe", kini kami sebut sebagai manifestasi kea
 *   **Mitos Sesajen RAM untuk NetBeans:** Dipercaya bahwa NetBeans membutuhkan persembahan RAM yang cukup agar tidak *ngambek* saat *running & build*.
 *   **Perdebatan Versi NetBeans:** Perbedaan pendapat antara pengguna NetBeans 8.2 (Aliran Salafi Koding) dan NetBeans Apache terbaru (Aliran Modernis Pragmatis) adalah diskursus abadi di grup WhatsApp angkatan.
 *   **Ziarah ke `localhost/phpmyadmin`:** Mengunjungi situs ini adalah bagian dari ritual pengelolaan data suci di XAMPP, seringkali diiringi doa agar tidak salah klik tombol *drop*.
-*   **Ijtihad SPK vs ML:** Hampir semua proposal skripsi yang berbau SPK akan merujuk pada kitab AHP/SAW. Menyentuh **ranah Machine Learning**, bahkan yang dasar sekalipun, dianggap sebagai ijtihad yang sangat berani."
+*   **Dominasi Ijtihad AHP/SAW:** Hampir semua proposal skripsi SPK akan merujuk pada kitab AHP/SAW. Menyentuh **Machine Learning** atau metode non-mainstream dianggap sebagai ijtihad yang *ghuluw* (berlebihan) dan seringkali disarankan untuk kembali ke jalan yang *moderat* (AHP/SAW).
 
 ## 📜 Peninggalan Bersejarah di Perpustakaan Agung Unindra (Al-Maktabah Al-Java'iyyah wal AHP-SAWiyyah):
 
